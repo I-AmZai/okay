@@ -124,5 +124,4 @@ javascript:void(open('http://tinyurl.com/create.php?url=%27+encodeURIComponent(l
 
 --------------------------------------------------------------------------------------------------------------------
 
-
-
+for more bookmarklets, go to https://caiorss.github.io/bookmarklets , if github isnt blocked for you, its pretty cool idk
