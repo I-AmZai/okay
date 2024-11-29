@@ -1,4 +1,7 @@
-## School Exploits
+
+## !!MAKE SURE YOU HAVE BOOKMARKLETS NOT BLOCKED ON YOUR CHROMEBOOK OR NO BOOKMARKLETS WONT WORK!!
+to see if you have bookmarklets blocked, go to https://github.com/3kh0/ext-remover/discussions/781
+(dont forget to select and drag the codes to the bookmark tab)
 
 ### Extension Modifier
 ---
@@ -121,7 +124,5 @@ javascript:void((function(){var a,b,c,e,f;f=0;a=document.cookie.split("; ");for(
 Compresses Any URL
 
 javascript:void(open('http://tinyurl.com/create.php?url=%27+encodeURIComponent(location.href)))
-
---------------------------------------------------------------------------------------------------------------------
-
+---
 for more bookmarklets, go to https://caiorss.github.io/bookmarklets , if github isnt blocked for you, its pretty cool idk
